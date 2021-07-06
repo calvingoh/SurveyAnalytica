@@ -7,8 +7,8 @@ Footer
       <div class="row">
         <div class="col-lg-6">
           <div class="footer-info">
-            <h3>Survey Analytica</h3>
-            <p>Create your survey form with ease using Survey Analytica!</p>
+            <h3>Survey Lab</h3>
+            <p>Create your survey form with ease using Survey Lab!</p>
           </div>
         </div>
 
@@ -41,10 +41,11 @@ Footer
           <div class="footer-links">
             <h4>Contact Us</h4>
             <p>
-              1-Z Lebuh Bukit Jambul<br>
-              Bukit Jambul, 11900 Bayan Lepas<br>
-              Penang, Malaysia <br>
-              <strong>Phone:</strong> +604-631 0138<br>
+            Jalan Kontraktor U1/14, Selangor<br>
+            Seksyen U1, Glenpark U1,<br>
+            40150 Shah Alam,<br>
+              Selangor, Malaysia <br>
+              <strong>Phone:</strong> +6 03-5565 0538<br>
             </p>
           </div>
         </div>
@@ -54,7 +55,7 @@ Footer
 
   <div class="container">
     <div class="copyright">
-      &copy; Copyright 2019 <strong>Survey Analytica</strong>. All Rights Reserved
+      &copy; Copyright 2021 <strong>Survey Lab</strong>. All Rights Reserved
     </div>
   </div>
 </footer><!-- #footer -->

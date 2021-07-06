@@ -111,7 +111,9 @@ img{
 
 .title-bar {
   padding: 150px 0 100px;
-  background-image: url("../img/intro-bg.jpg");
+  /* background-image: url("../img/landing.png"); */
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
@@ -519,7 +521,9 @@ h6 {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: #f5f8fd url("../img/intro-bg.jpg") center top no-repeat;
+  /* background: #f5f8fd url("../img/landing.png") center top no-repeat; */
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
   background-size: cover;
 }
 

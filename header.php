@@ -15,7 +15,7 @@ Header
   </div>
   <div class="container">
     <div class="logo float-left">
-      <h1 class="text-light"><a href="index.php"><span>Survey Analytica</span></a></h1>
+      <h1 class="text-light"><a href="index.php"><span>Survey Lab</span></a></h1>
     </div>
 
     <nav class="main-nav float-right d-none d-lg-block">

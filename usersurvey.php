@@ -65,7 +65,7 @@ if(isset($_GET['form'])){
     <script src="https://cdnjs.cloudflare.com/ajax/libs/rateYo/2.3.1/jquery.rateyo.min.js"></script>
     <script src="https://formbuilder.online/assets/js/form-builder.min.js"></script>
     <script src="https://kevinchappell.github.io/formBuilder/assets/js/form-render.min.js"></script>
-    <script src="http://localhost/SurveyAnalytica/formbuilder/dist/form-builder.min.js"></script>
+    <script src="http://localhost/surveylab/formbuilder/dist/form-builder.min.js"></script>
 
 
     <!--==========================

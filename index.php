@@ -74,7 +74,7 @@
       <!--==========================
       Why Us Section
       ============================-->
-      <section id="why-us" class="wow fadeIn">
+      <!-- <section id="why-us" class="wow fadeIn">
         <div class="container-fluid">
 
           <header class="section-header">
@@ -120,7 +120,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <!--==========================
       Call To Action Section
@@ -166,28 +166,28 @@
 
 			<ul id="faq-list" class="wow fadeInUp">
 			  <li>
-				<a data-toggle="collapse" href="#faq1" class="collapsed">What is Survey Analytica? <i class="ion-android-remove"></i></a>
+				<a data-toggle="collapse" href="#faq1" class="collapsed">What is Survey Lab? <i class="ion-android-remove"></i></a>
 				<div id="faq1" class="collapse" data-parent="#faq-list">
 				  <p>
-					Survey Analytica is a survey form builder that allows you to create survey forms for free, provided you have an account with us.
+          Survey Lab is a survey form builder that allows you to create survey forms for free, provided you have an account with us.
 				  </p>
 				</div>
 			  </li>
 
 			  <li>
-				<a data-toggle="collapse" href="#faq2" class="collapsed">Do I have to pay to access more features in Survey Analytica? <i class="ion-android-remove"></i></a>
+				<a data-toggle="collapse" href="#faq2" class="collapsed">Do I have to pay to access more features in Survey Lab? <i class="ion-android-remove"></i></a>
 				<div id="faq2" class="collapse" data-parent="#faq-list">
 				  <p>
-					The answer is no you don't! Survey Analytica is completely free, anyone with a registered account with us can access all the form-building features without restrictions.
+					The answer is no you don't! Survey Lab is completely free, anyone with a registered account with us can access all the form-building features without restrictions.
 				  </p>
 				</div>
 			  </li>
 
 			  <li>
-				<a data-toggle="collapse" href="#faq3" class="collapsed">What is so special about Survey Analytica? <i class="ion-android-remove"></i></a>
+				<a data-toggle="collapse" href="#faq3" class="collapsed">What is so special about Survey Lab? <i class="ion-android-remove"></i></a>
 				<div id="faq3" class="collapse" data-parent="#faq-list">
 				  <p>
-					First of all, Survey Analytica is completely free. Secondly, Survey Analytica offer data analytics for each survey form you create - survey responses are analyzed and constructed into charts
+					First of all, Survey Lab is completely free. Secondly, Survey Lab offer data analytics for each survey form you create - survey responses are analyzed and constructed into charts
 					and graphs for an easy view of your data!
 				  </p>
 				</div>

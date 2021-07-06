@@ -29,8 +29,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/rateYo/2.3.1/jquery.rateyo.min.js"></script>
-    <script src="http://localhost/SurveyAnalytica/formbuilder/dist/form-render.min.js"></script>
-    <script src="http://localhost/SurveyAnalytica/formbuilder/dist/form-builder.min.js"></script>
+    <script src="http://localhost/surveylab/formbuilder/dist/form-render.min.js"></script>
+    <script src="http://localhost/surveylab/formbuilder/dist/form-builder.min.js"></script>
     <!--==========================
     Intro Section
     ============================-->

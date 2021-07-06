@@ -309,7 +309,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/rateYo/2.3.1/jquery.rateyo.min.js"></script>
     <script src="https://kevinchappell.github.io/formBuilder/assets/js/form-render.min.js"></script>
-    <script src="http://localhost/SurveyAnalytica/formbuilder/dist/form-builder.min.js"></script>
+    <script src="http://localhost/surveylab/formbuilder/dist/form-builder.min.js"></script>
     <!-- Chart.js Libraries -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.0/dist/Chart.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.0/dist/Chart.bundle.min.js"></script>
@@ -642,16 +642,16 @@
   					  </div>
   					</div>
 				  </div>
-          <div class="row">
+          <!-- <div class="row">
             <div class="col-md-3"></div>
   					<div class="col-md-6">
-              <?php $tweetLink = "https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Flocalhost%2FSurveyAnalyticaLatest%2FviewSurvey.php%3Fform%3D11&ref_src=twsrc%5Etfw&text=Check%20out%20my%20latest%20form%20created%20at%20Survey%20Analytica!%20Show%20me%20some%20support%20by%20filling%20it%20in!&tw_p=tweetbutton&url=http%3A%2F%2Flocalhost%2FSurveyAnalytica%2Fusersurvey.php%3Fform%3D$id";
+              <php $tweetLink = "https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Flocalhost%2FsurveylabLatest%2FviewSurvey.php%3Fform%3D11&ref_src=twsrc%5Etfw&text=Check%20out%20my%20latest%20form%20created%20at%20Survey%20Analytica!%20Show%20me%20some%20support%20by%20filling%20it%20in!&tw_p=tweetbutton&url=http%3A%2F%2Flocalhost%2Fsurveylab%2Fusersurvey.php%3Fform%3D$id";
   					  echo "<div class='box' data-dismiss='modal' aria-label='Close' style='padding: 15px;' >
     						<div class='icon'><i class='fa fa-twitter' style='color: #00acee;'></i></div>
     						<h4 class='title'><a href = $tweetLink>Twitter</a></h4>
-  					  </div>"; ?>
+  					  </div>"; >
   					</div>
-          </div>
+          </div> -->
 				</section>
 			</div>
 			<div class="modal-footer d-flex justify-content-center">
@@ -680,7 +680,7 @@
           <h5>Link</h5>
           <?php
             echo "<input type='text' id='copyLink' class='form-control input-text-css'
-            value='http://localhost/SurveyAnalytica/usersurvey.php?form=$id' name='share_link'>";
+            value='http://localhost/surveylab/usersurvey.php?form=$id' name='share_link'>";
           ?>
           <div class = "ht-10"></div>
           <a id="copyBtn" class="btn btn-primary"  style="color: #fff; font-size: 12px;" >
@@ -715,7 +715,7 @@
             <h6>Enter receipient's email address</h6>
               <textarea class='form-control input-text-css' name='email_receipient'
                 id='email_receipient' rows="2"
-                placeholder='e.g. mikewazowski@gmail.com, johncena@yahoo.com, pmalone@hotmail.com, inti@student.newinti.edu.my' required></textarea>
+                placeholder='e.g. johncena@gmail.com, student@kdu-online.com,' required></textarea>
             <div class = "ht-30"></div>
 
             <h6>Subject</h6>
@@ -727,8 +727,8 @@
             <h6>Message</h6>
               <?php echo"
               <textarea class='form-control input-text-css' name='email_message' id='email_message' rows='3'
-                required>Check out my latest form created at Survey Analytica! Show me some support by filling it in!
-                http://localhost/SurveyAnalyticaLatest/usersurvey.php?form=$id
+                required>Check out my latest survey created at Survey Lab! Show me some support by filling it in!
+                http://localhost/surveylabLatest/usersurvey.php?form=$id
               </textarea>"
               ?>
             <div class = "ht-10"></div>

@@ -2,7 +2,7 @@
   $dbServername = "localhost";
   $dbUsername = "root";
   $dbPassword = "";
-  $dbName = "surveyanalytica";
+  $dbName = "surveylab";
 
   $conn = mysqli_connect($dbServername, $dbUsername, $dbPassword, $dbName);
 ?>
